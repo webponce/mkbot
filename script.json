@@ -1,7 +1,17 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hello to you too. I'm sorry if I'm a little slow at times. Blame lack of COFFEE.",
+    "COFFEE": "Yes, that's a good idea. Coffee is always a good idea.",
+    "I LOVE YOU": "Really?",
+    "DOUCHE": "Fuck you",
+    "CRAFT": "I hear they're the most awesomest team in Carat. Probably overstating it though",
+    "BRAM": "He's a tall pale guy, isn't he",
+    "LOURENS": "South African. Nothing else needs saying",
+    "JOANNE": "Award winning gossip. Two years in a row. Just Sayin' OOOSH OOOSH",
+    "MATTHEW": "Stupidly attractive chap isn't he",
+    
+    
+    
+    
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
